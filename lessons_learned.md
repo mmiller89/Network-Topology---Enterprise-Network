@@ -23,7 +23,7 @@ Briefly describe what this troubleshooting section covers.
 ```cisco
 # show interfaces trunk
 # show vlan brief
-
+```
 
 **Lessons Learned**
 This initial problem was really important for me to really understand VLANs from a top down perspective. For my topology, it was not necessary for each switch to know about every VLAN in the topology (5,10,20,30,40,50,55,60). From endpoint to router, each switch along the way must carry VLAN traffic. Because of the ROAS configuration, as long as a VLAN reaches it's gateway the router will then retag the traffic with the appropriate destination network. This saves some hassle initially, but I imagine that it will take strong documentation to avoid headaches if this network were to grow.
