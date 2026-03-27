@@ -1,7 +1,9 @@
 
 ---
 
-# 🧠 📘 `design.md` (Topology / Technical Write-Up)
+# (Topology / Technical Write-Up)
+
+#Note - this file was created with the help of AI.
 
 ```markdown
 # Network Design
