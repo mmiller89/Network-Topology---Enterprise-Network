@@ -1,7 +1,7 @@
 
 ---
 
-# (Topology Information)
+# Topology Information
 
 #Note - this file was created with the help of AI.
 
